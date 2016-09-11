@@ -10,6 +10,6 @@ public class Dog {
         this.name = name;
     }
     void about(){
-        System.out.printf("Имя %d \t,Возраст %s",age,name);
+        System.out.printf("Имя %d,Возраст %s",age,name);
     }
 }
