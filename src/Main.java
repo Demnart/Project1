@@ -7,5 +7,6 @@ public class Main {
         Dog dog = new Dog(5, "Bagira");
         cat.about();
         dog.about();
+        System.out.println("Teeest");
     }
 }
