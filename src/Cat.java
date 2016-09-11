@@ -12,6 +12,6 @@ public class Cat {
         this.color = color;
     }
     void about(){
-        System.out.printf("Возраст: %d,Имя: %s,Цвет: %s",age,name,color);
+        System.out.printf("Возраст: %d,Имя: %s,Цвет: %s\t\t",age,name,color);
     }
 }
